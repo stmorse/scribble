@@ -25,16 +25,14 @@ img {
     background-image: none; }
 
 #header-name {
-  font-size: 20px;
+  margin: 0;
+  font-size: 28px;
 }
 
 #header-desc {
-  color: #8f8f8f;
-}
-
-p {
   margin: 0;
-  margin-top: 0; 
+  margin-top: 0;
+  color: #8f8f8f;
 }
 
 .capitalize {
