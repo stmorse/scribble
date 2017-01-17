@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: index
 ---
 
 <img align="left" src="{{ site.url }}/images/me.jpg" width="25%" style="margin: 20px 40px">
