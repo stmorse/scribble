@@ -1,13 +1,19 @@
 ---
 layout: page
-title: About
+title:
 ---
 
 <img align="left" src="{{ site.url }}/images/me.jpg" width="25%">
 
-- S.M. Candidate
-- Research Fellow
-- Infantry Officer
+S.M. Candidate, [Operations Research Center](http://orc.mit.edu), [MIT](http://www.mit.edu)
+
+Research Fellow, [Draper Laboratory](http://www.draper.com)
+
+Infantry Officer, [U.S. Army](http://www.us.army.mil)
+
+*Contact:* steventmorse at gmail
+
+-------------
 
 I'm a second-year Masters student in the [Operations Research Center](http://orc.mit.edu) at MIT.  Following this program, I will serve as an Instructor at the [U.S. Military Academy (West Point)](http://www.usma.edu) for 3 years teaching sophomore-level calculus.  My current research is in complex networks, in particular the spread of information and influence through a social network.  This research is a nice mix of complex networks, machine learning, optimization, large-scale data science, and I really enjoy it.
     
