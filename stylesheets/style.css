@@ -24,6 +24,14 @@ img {
   #go-back-home:hover {
     background-image: none; }
 
+#header-name {
+  font-size: 16px;
+}
+
+#header-desc {
+  color: #8f8f8f;
+}
+
 .capitalize {
   text-transform: capitalize; }
 
