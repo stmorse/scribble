@@ -3,8 +3,8 @@ layout: page
 title: About
 ---
 
-Give people something to read and get to know you. Here's my attempt: this is [Mu-An](http://muan.co), a designer developer who lives in London at the moment.
+I'm a second-year Masters student in the [Operations Research Center](http://orc.mit.edu) at MIT.  Following this program, I will serve as an Instructor at the [U.S. Military Academy (West Point)](http://www.usma.edu) for 3 years teaching sophomore-level calculus.  My current research is in complex networks, in particular the spread of information and influence through a social network.  This research is a nice mix of complex networks, machine learning, optimization, large-scale data science, and I really enjoy it.
+    
+I am also an active-duty military officer.  I commissioned in 2008 from West Point, and have served in Afghanistan (1 year) as a rifle platoon leader, and Kuwait (10 months) as an infantry company commander.  I've also held various staff positions at the Company, Brigade, and Division level.  After completing my tour as a West Point instructor, I plan to return to the operational Army and running around in the woods with guns.
 
-Tweet at [@muanchiou](http://twitter.com/muanchiou), read my code on [GitHub](http://github.com/muan), see my designs on [Dribbble](http://dribbble.com/muan), find my CV on [LinkedIn](http://uk.linkedin.com/in/muanchiou).
-
-This theme is made by me. You have a nice day. ♥
+I'm also passionate about guitar, piano, hiking, traveling, languages, chess, hunting, reading, and good bourbon.  My backup career plan is to professionally busk.  I recently co-authored a neural network with my wife; we named him Isaac and he loves blueberries.
