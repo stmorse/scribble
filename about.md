@@ -3,7 +3,7 @@ layout: page
 title:
 ---
 
-<img align="left" src="{{ site.url }}/images/me.jpg" width="25%" padding=40px>
+<img align="left" src="{{ site.url }}/images/me.jpg" width="25%" padding="40px">
 
 S.M. Candidate, [Operations Research Center](http://orc.mit.edu), [MIT](http://www.mit.edu)  
 Research Fellow, [Draper Laboratory](http://www.draper.com)  
