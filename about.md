@@ -3,11 +3,13 @@ layout: page
 title:
 ---
 
-<img align="left" src="{{ site.url }}/images/me.jpg" width="25%" style="margin: 10px 10px">
+<img align="left" src="{{ site.url }}/images/me.jpg" width="25%" style="margin: 20px 40px">
 
 S.M. Candidate, [Operations Research Center](http://orc.mit.edu), [MIT](http://www.mit.edu)  
 Research Fellow, [Draper Laboratory](http://www.draper.com)  
 Infantry Officer, [U.S. Army](http://www.us.army.mil)
+
+icon icon icon
 
 *Contact:* steventmorse at gmail
 
