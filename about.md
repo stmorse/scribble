@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img align="left" src="images/me.jpg">
+<img align="left" src="../images/me.jpg" width="25%">
 
 - S.M. Candidate
 - Research Fellow
