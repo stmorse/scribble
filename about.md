@@ -1,6 +1,5 @@
 ---
 layout: page
-title:
 ---
 
 <img align="left" src="{{ site.url }}/images/me.jpg" width="25%" style="margin: 20px 40px">
@@ -9,7 +8,7 @@ S.M. Candidate, [Operations Research Center](http://orc.mit.edu), [MIT](http://w
 Research Fellow, [Draper Laboratory](http://www.draper.com)  
 Infantry Officer, [U.S. Army](http://www.us.army.mil)
 
-icon icon icon
+<%= octicon(:symbol => "mark-github") %>
 
 *Contact:* steventmorse at gmail
 
