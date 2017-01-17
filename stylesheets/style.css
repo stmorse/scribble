@@ -366,8 +366,8 @@ img {
   position: fixed;
   top: 50%;
   left: 50%;
-  font-size: 60px; }
+  font-size: 100px; }
 .paging .left {
-  margin-left: -400px; }
+  margin-left: -440px; }
 .paging .right {
-  margin-left: 400px; }
+  margin-left: 350px; }
