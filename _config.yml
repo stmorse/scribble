@@ -13,9 +13,9 @@ links:
     url:          /research
   - name:         Blog
     url:          /archive
-  - name:         GitHub
-    url:          http://github.com/stmorse
-    external:     true
+  - name:         CV
+    url:          /cv.pdf
+    # external:     true
 highlighter:      rouge
 permalink:        pretty
 markdown:         kramdown
