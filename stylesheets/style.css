@@ -331,7 +331,7 @@ section.post, section > p {
   margin: 0;
   padding: 0; }
 
-pre {
+/* pre {
   overflow-x: auto;
   padding: 10px 0;
   width: 100%;
@@ -351,7 +351,20 @@ code {
   vertical-align: baseline;
   zoom: 1;
   *display: inline;
-  *vertical-align: auto; }
+  *vertical-align: auto; } */
+
+code {
+  padding: .2rem .5rem;
+  margin: 0 .2rem;
+  font-size: 90%;
+  white-space: nowrap;
+  background: #F1F1F1;
+  border: 1px solid #E1E1E1;
+  border-radius: 4px; }
+pre > code {
+  display: block;
+  padding: 1rem 1.5rem;
+  white-space: pre; }
 
 img {
   max-width: 100%; }
