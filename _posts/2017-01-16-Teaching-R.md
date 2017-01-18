@@ -46,9 +46,9 @@ But I noticed that with students in the course, and talking to others before and
 
 Long story short, at the end of making these course notes and immersing myself in the Hadleyverse for a few days, I just ... missed coding in Python.  
 
-{% highlight python %}
+```python
 python -c "while 1:locals().setdefault('i',60);import time,random;
  print(' '*i+'<>'+' '*(80-i-1)+'|');time.sleep(.1);i+=random.randint(-2,2)"
-{% endhighlight %}
+```
 
 Ahh.  Thanks to [Arun Rocks](http://arunrocks.com/python-one-liner-games/) for that one-liner spaceship game (try it!)
