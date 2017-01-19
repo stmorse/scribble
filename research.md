@@ -5,10 +5,14 @@ title: Research
 
 My current research interests are in complex systems, machine learning, and optimization.  Specifically, I am doing work on information spread through social networks, human mobility, and competitive influence maximization.  I am affiliated with [Draper Laboratory](http://www.draper.com) and [HuMNet Lab](http://humnetlab.mit.edu).
 
+<div class="three columns">
+  <img src="{{ site.baseurl }}/images/persistent.png" width="90%" alt="Persistent cascades" />
+</div>
+<div class="nine columns">
 ### Information spread
 
 A challenge in large-scale passive-collection communication datasets (like mobile phone records) is the lack of "ground truth."  We know A called B, but not why.  But imagine if we see A call B and C, who call D and E, and then the same pattern (or something very similar) occurs again every week or two over the course of several months.  We can make a strong claim this is meaningful communication indicating information spread.  Using methods of inexact tree matching and hierarchical clustering, we define, find, and analyze these structures and show the effect on network topology, centrality, and diffusion.
-
+</div>
 
 ### Influence through mobility
 
