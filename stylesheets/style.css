@@ -169,24 +169,25 @@ footer {
 a, .as-link {
   text-decoration: none;
 /*   color: #269; */
-  color: #3fd1ff;
+  color: #40c6ef;
   line-height: 1.4em;
   display: inline-block;
   vertical-align: baseline;
   zoom: 1;
   *display: inline;
   *vertical-align: auto;
-  -webkit-transition: color 0.3s;
-  -moz-transition: color 0.3s;
+/*   -webkit-transition: color 0.3s; */
+/*   -moz-transition: color 0.3s;
   -ms-transition: color 0.3s;
-  -o-transition: color 0.3s;
-  transition: color 0.3s; }
+  -o-transition: color 0.3s; */
+/*   transition: color 0.3s;  */
+}
   a.main, a:hover, .as-link.main, .as-link:hover {
     color: #047396;
-/*     background-image: url(/images/line.png);
+    background-image: url(/images/line.png);
     background-repeat: repeat-x;
-    background-position: left bottom; */
-    border-bottom: 1px dotted #000;
+    background-position: left bottom;
+/*     border-bottom: 1px dotted #000; */
     transition: 0.5s; }
   a.big-button, .as-link.big-button {
     min-width: 30%;
