@@ -168,7 +168,8 @@ footer {
 
 a, .as-link {
   text-decoration: none;
-  color: #269;
+/*   color: #269; */
+  color: #3fd1ff;
   line-height: 1.4em;
   display: inline-block;
   vertical-align: baseline;
@@ -179,8 +180,7 @@ a, .as-link {
   -moz-transition: color 0.3s;
   -ms-transition: color 0.3s;
   -o-transition: color 0.3s;
-  transition: color 0.3s;
-  border-bottom: 1px dotted #000;}
+  transition: color 0.3s; }
   a.main, a:hover, .as-link.main, .as-link:hover {
     color: #047396;
 /*     background-image: url(/images/line.png);
