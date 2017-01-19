@@ -1,0 +1,25 @@
+---
+layout: index
+title: Research
+---
+
+My current research interests are in complex systems, machine learning, and optimization.  Specifically, I am doing work on information spread through social networks, human mobility, and competitive influence maximization.  I am affiliated with [Draper Laboratory](http://www.draper.com) and [HuMNet Lab](http://humnetlab.mit.edu).
+
+### Information spread
+
+A challenge in large-scale passive-collection communication datasets (like mobile phone records) is the lack of "ground truth."  We know A called B, but not why.  But imagine if we see A call B and C, who call D and E, and then the same pattern (or something very similar) occurs again every week or two over the course of several months.  We can make a strong claim this is meaningful communication indicating information spread.  Using methods of inexact tree matching and hierarchical clustering, we define, find, and analyze these structures and show the effect on network topology, centrality, and diffusion.
+
+
+### Influence through mobility
+
+Suppose, for some user A, we observe several of A's friends changing their mobility patterns (i.e. places they frequent) over time to be more like A.  We might then infer that A is influencing the behavior of his friends over time.  Using geo-tagged data (like mobile phone records), we seek to identify and quantify these changes and the central users. This gives a behavioral influence measure of centrality, in contrast to the standard graph topology measures like degree, betweenness, etc.
+
+
+### Competitive influence maximization
+
+Most models of information or opinion spread focus on long-term consensus at the expense of short-term accuracy.  We investigate a model that captures peer influence (similar to the Linear Threshold model) and agent-specific influence abilities (similar to work in Acemoglu), allowing persistent pockets of opinion and slower spread.  Current work is to analyze this model under a competitive influence maximization scheme.
+
+
+### Trace Diagrams
+
+My undergraduate work was with so-called <i>trace diagrams</i> (also <i>birdtracks</i>, <i>spin networks</i>, and other names), which are structured graphs representing multilinear functions.  They are essentially a notational invention which provide a simple, graphical, intuitive way of performing otherwise complicated calculations.  Versions of this notation show up in physics, and the current incarnation has gained some traction (<a href="http://arxiv.org/pdf/1102.0316.pdf">normal factor</a> <a href="http://arxiv.org/pdf/1004.3833.pdf">graphs</a>, <a href="http://dl.acm.org/citation.cfm?id=1596553">generalization to commutative monads</a>), but it is still a niche area of research.  The paper below defines them in a rigorous way and shows the power of the notation with several extremely short proofs of classic results in linear algebra. 
