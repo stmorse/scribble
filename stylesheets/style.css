@@ -246,6 +246,7 @@ hr {
 ul.posts, ul.posts li {
   margin: 0;
   padding: 0;
+  font-size: 14px;
   list-style: none; }
 ul.posts li {
   margin-bottom: 20px; }
@@ -259,7 +260,7 @@ ul.posts .datetime {
   text-transform: uppercase;
   float: right;
   color: #999;
-  font-size: 10px;
+  font-size: 14px;
   text-align: right; }
 
 section.post {
