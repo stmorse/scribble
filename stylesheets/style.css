@@ -1,5 +1,5 @@
 h1, h2, h3, h4, h5, strong, b {
-  font-weight: 600; }
+  font-weight: 500; }
 
 html, body {
   height: 100%; }
@@ -169,7 +169,8 @@ footer {
 a, .as-link {
   text-decoration: none;
 /*   color: #269; */
-  color: #40c6ef;
+/*   color: #40c6ef; */
+  color: #1EAEDB;
   line-height: 1.4em;
   display: inline-block;
   vertical-align: baseline;
@@ -183,7 +184,8 @@ a, .as-link {
 /*   transition: color 0.3s;  */
 }
   a.main, a:hover, .as-link.main, .as-link:hover {
-    color: #047396;
+/*     color: #047396; */
+    color: #004459;
 /*     background-image: url(/images/line.png);
     background-repeat: repeat-x;
     background-position: left bottom; */
