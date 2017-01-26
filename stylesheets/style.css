@@ -170,7 +170,8 @@ a, .as-link {
   text-decoration: none;
 /*   color: #269; */
 /*   color: #40c6ef; */
-  color: #1EAEDB;
+/*   color: #1EAEDB; */
+  color: #1889ad;
   line-height: 1.4em;
   display: inline-block;
   vertical-align: baseline;
@@ -185,7 +186,7 @@ a, .as-link {
 }
   a.main, a:hover, .as-link.main, .as-link:hover {
 /*     color: #047396; */
-    color: #004459;
+    color: #00303f;
 /*     background-image: url(/images/line.png);
     background-repeat: repeat-x;
     background-position: left bottom; */
