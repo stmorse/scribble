@@ -6,9 +6,14 @@ date: 2017-01-16 22:00:00
 
 I recently got talked into helping with a winter-term, student-led course on software tools for optimization and analytics, put together by colleagues in the [OR Center](http://orc.mit.edu) at MIT.  It was a great experience, and was a confidence boost for the actual teaching I'll be doing in the fall.  
 
-However, the path from "hey let's switch up the course this year" to "good morning class" was tricky and full of interesting revelations for me.  So I wanted to sum up some observations, and shamelessly link to my [course notes](https://philchodrow.github.io/cos_2017/2_wrangling_and_viz/S2_master.html) (which are awesome).  
+However, the path from "hey let's switch up the course this year" to "good morning class" was tricky and full of interesting revelations for me.  So I wanted to sum up some observations, and shamelessly link to my:
 
-Shout out to [Phil Chodrow](http://philchodrow.github.io) for hosting and leading the charge on the R sessions.
+> ##[course notes](https://stmorse.github.io/intro-tidyverse/master.html) 
+
+(which are awesome).  
+
+Shout out to [Phil Chodrow](http://philchodrow.github.io) who is hosting the [official page site](http://philchodrow.github.io/cos_2017).  This has links to the rest of the sessions which covered **machine learning, optimization, and deep learning.**
+
 
 ### 1. Data wrangling and visualization should be covered together.
 
