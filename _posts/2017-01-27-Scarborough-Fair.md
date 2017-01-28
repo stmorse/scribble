@@ -15,14 +15,14 @@ Learning any song is a research experience.  Depending on your skill level, lear
 
 It's all part of the fun, and you end up with a really cool appreciation of the song.
 
-# The Setup
+## The Setup
 
 The song is played in standard tuning, so E-A-D-G-B-E from low (fat) string to high (thin) string.  Sidenote: Feel free to use a tuner, but really work on not being shackled to one.  Getting the low E to be exactly an E isn't as important as getting all the strings to be in tune with each other – getting the intervals right.  The fifth-fret trick is the best.
 
 The song is also played with a capo on the 7th fret.  You can play the song without a capo (if you don't have one, say), or place it somewhere else to suit your voice, no big deal, it will just sound different than a recording of S&G.
 
 
-## Tabs Primer
+### Tabs Primer
 
 Tabs look intimidating at first, but they're really straightforward.  For example, this:
 
@@ -53,7 +53,7 @@ E|----------|
 Notice in this example you're plucking the D- and B-string open, simultaneously, and then simultaneously hammering your fingers onto the 2nd and 1st fret of those strings (without plucking again).  Also check out that open A-string note at the beginning – you can pluck that and let it ring while you play the hammer on chord.  It's a nice sound, and something you will see again in Scarborough Fair.  Onto the song.  Full tab first, then we'll go part-by-part.
 
 
-# Scarborough Fair Tab
+## Scarborough Fair Tab
 
 ```
 e|---0--------------|---0--------------|--------------------|
