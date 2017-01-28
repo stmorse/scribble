@@ -121,9 +121,9 @@ E|------------------|------------------|--------------------|
 ```
 
 
-# By Section
+## By Section
 
-## The Main Riff
+### The Main Riff
 
 ```
   t  r  m  i  r  m   t  r  m  i  r  m   
@@ -146,7 +146,7 @@ Once you're kinda comfortable with that pleasant little riff, we can dive into t
 
 
 
-## The Intro
+### The Intro
 
 ```
   t  r  m  i  r  m   t  r  m  i  r  m   t  r  m (i) t 
@@ -170,7 +170,7 @@ Try recording yourself on your phone and play it back – that's always a reveal
 It's hard when learning a song to “hear yourself,” so that's why most music teachers will record you and play it back for you, so that you have that “oh man, I didn't realize my rhythm was so off in that section” or “I didn't realize I sounded so tense” or whatever.
 
 
-## Verse (Part I)
+### Verse (Part I)
 
 ```
                                        Are         you    
@@ -237,7 +237,7 @@ The “ma-ry and” measure has a small chord change and a different picking pat
 Then it's back to the regular picking pattern.  
 
 
-## Verse (Part II)
+### Verse (Part II)
 
 ```
                                 Re     mem         ber   
@@ -272,7 +272,7 @@ Okay a couple new wrinkles to our normal picking pattern.
 4. Last, notice that we slow down our picking pattern at the end.  We only play three little two-note chords, one on each down beat.  One, two, three.  That leads us into the last part:
 
 
-## Verse (Last Part) 
+### Verse (Last Part) 
 
 ```
  She         once   was         a      true  love  of  
@@ -301,14 +301,14 @@ That is a hammer-on followed by a pull-off.  It sounds really cool and isn't tha
 Well, that's the whole song!  It's pretty straightforward, with only a few tricky parts.  I also think it's a nice picking pattern to learn.  Once you play a picking pattern enough times, your fingers start to do it on their own without you thinking about it – that's when it gets fun.  You can play other chords, start playing around, adding hammer ons, etc.
 
 
-## A few notes on style and technique
+### A few notes on style and technique
 
 Hand position.  You can definitely plant your pinky on the guitar-top (pickguard area) to help stabilize your hand as your learn the song, but this is not a great long-term practice.  Your hand will tense up easier doing this, your pinky will wear out, etc.  However, a lot of very good guitarists plant a finger or two, and I definitely did it as a beginner and still do it quite a bit.  Something to keep in mind.  Better not to plant.
 
 **Dynamics.**  Dynamics means the changing loudness of a song.  Listen to the song and notice how they accent certain notes:  the walking bass notes on “Remember,” the high notes through “ma-ry and” and “one who lives.”  Notice how they let the guitar be like a harp for the simple arpeggio passages with `x04030` and `x02200`, but bring out notes at the end of phrases.  This is what will really make the song sound great, and you should train your ear to hear it in others and your own playing, even as you're learning the song.
 
 
-# Some Music Theory
+## Some Music Theory
 
 You don't need to know any theory to play this song, but I think it's important to know theory as you progress in your musician life, and best to start early! 
 
@@ -332,7 +332,7 @@ You might ask, can we just write A9 ? That's a chord, right?  Well, yes, but it'
 The next section gets a little more technical, so feel free to skip it.
 
 
-## Extended chords
+### Extended chords
 
 A9 indicates a ninth chord, not just adding the ninth note.  A ninth chord is an extended chord, and includes more notes than just the ninth itself.  Other extended chords are the 7th, the 9th, the 11th, … also flat-9th, sharp-9th, etc … They're very jazzy, but show up in rock too.  Here's what we mean:
 
@@ -363,7 +363,7 @@ To play/explain the 11th, and for a great primer on all these extended chords, I
 
 
 
-## Another chord
+### Another chord
 
 Okay, how about this one:
 
@@ -385,7 +385,7 @@ So my guess is this is an Am7add11add13, which is very close to an Am13 (missing
 **AN INTERESTING ASIDE AND SEGUE:**  Notice that when we slid the shape up the neck, we took out the minor third (a C).  That means this could really be an A7(9)(11) (that is, a major chord).  It only feels like an Am7(9)(11) because the song is kind of minor.  Or is it?  If you don't believe me, strum around with A7 and the `x04030` chord, and then the Am7 and the `x04030` chord.  They both sound “right” - that leads me to my next point.
 
 
-## Key
+### Key
 
 Let's talk about the key of this song.  What key do you think it's in?  Is it in a major key or a minor key?  It kind of has a minor feel to me, but maybe not all-out minor, like a funeral dirge or something.  It's almost like it's in between.
 
@@ -410,7 +410,7 @@ So, it's not an exact science, but I think we've determined the song is in A min
 
 
 
-## Transposing and the Capo
+### Transposing and the Capo
 
 Here's a simpler question: what key is it in when we play it with the capo?  If we play a song in A major with no capo, it's a song in A major.  If we put a capo on the 3rd fret, it becomes a song in C major.  With a capo on the 3rd fret, playing an A chord really makes a C chord sound.  Similarly, a G-chord makes a Bb-chord sound, B chord makes a D chord sound, etc.
 
