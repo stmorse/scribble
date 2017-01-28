@@ -1,8 +1,8 @@
----------------
+---
 layout: post
 title: Scarborough Fair (Simon & Garfunkel) Tutorial
-date: 2017-01-27 21:30
----------------
+date: 2017-01-27 21:30:00
+---
 
 Everybody knows Simon & Garfunkel's style: tight harmonies over precisely fingerpicked guitar.  Their songs are a good way to learn fingerpicking (i.e. playing with just your fingers, no pick), and Scarborough Fair may be one of their simplest.  I'll walk through the tab so we can focus on just learning the dang thing, then at the end discuss some theory for a deeper understanding of what we're playing.
 
