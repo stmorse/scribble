@@ -6,23 +6,23 @@ date: 2017-01-27 21:30:00
 
 Simon & Garfunkel songs are a classic jump into the land of fingerpicking, and Scarborough Fair may be one of their simplest.  That said, it's not easy!  This post is organized like this:
 
-1. [The Setup](##the-setup).  Tuning and how to read a tab.  Intermediate players feel free to skip.
-2. **[The Tab](##scarborough-fair-tab).**  Here's the full, actual, tab.  
-3. [By Section](##by-section).  A walk through the tab: main riff, intro, verse parts.
-4. [Some theory](##some-music-theory). Discussion of extended chords, key, transposing.
+1. [The Setup](#the-setup).  Tuning and how to read a tab.  Intermediate players feel free to skip.
+2. **[The Tab](#scarborough-fair-tab).**  Here's the full, actual, tab.  
+3. [By Section](#by-section).  A walk through the tab: main riff, intro, verse parts.
+4. [Some theory](#some-music-theory). Discussion of extended chords, key, transposing.
 
 Learning any song is a research experience.  Depending on your skill level, learning a song may take a couple hours or a couple months.  Enjoy the journey.  Try looking up other tabs online, see where they differ, [watch S&G play it live](https://youtu.be/c_T7HgZKZjo), try [watching a cover](https://youtu.be/G9iVG4kg0sg), or try [a tutorial](https://youtu.be/LisLYZHht4A), try fooling around with the licks, etc.  
 
 It's all part of the fun, and you end up with a really cool appreciation of the song.
 
-## The Setup
+# The Setup
 
 The song is played in standard tuning, so E-A-D-G-B-E from low (fat) string to high (thin) string.  Sidenote: Feel free to use a tuner, but really work on not being shackled to one.  Getting the low E to be exactly an E isn't as important as getting all the strings to be in tune with each other – getting the intervals right.  The fifth-fret trick is the best.
 
 The song is also played with a capo on the 7th fret.  You can play the song without a capo (if you don't have one, say), or place it somewhere else to suit your voice, no big deal, it will just sound different than a recording of S&G.
 
 
-### Tabs Primer
+## Tabs Primer
 
 Tabs look intimidating at first, but they're really straightforward.  For example, this:
 
@@ -53,10 +53,9 @@ E|----------|
 Notice in this example you're plucking the D- and B-string open, simultaneously, and then simultaneously hammering your fingers onto the 2nd and 1st fret of those strings (without plucking again).  Also check out that open A-string note at the beginning – you can pluck that and let it ring while you play the hammer on chord.  It's a nice sound, and something you will see again in Scarborough Fair.  Onto the song.  Full tab first, then we'll go part-by-part.
 
 
-## Scarborough Fair Tab
+# Scarborough Fair Tab
 
 ```
-Intro:
 e|---0--------------|---0--------------|--------------------|
 B|------------3-----|------------3-----|---0----------------|
 G|------0--------0--|------0--------0--|------0-------------|
@@ -122,9 +121,9 @@ E|------------------|------------------|--------------------|
 ```
 
 
-## By Section
+# By Section
 
-### The Main Riff
+## The Main Riff
 
 ```
   t  r  m  i  r  m   t  r  m  i  r  m   
@@ -147,7 +146,7 @@ Once you're kinda comfortable with that pleasant little riff, we can dive into t
 
 
 
-### The Intro
+## The Intro
 
 ```
   t  r  m  i  r  m   t  r  m  i  r  m   t  r  m (i) t 
@@ -171,7 +170,7 @@ Try recording yourself on your phone and play it back – that's always a reveal
 It's hard when learning a song to “hear yourself,” so that's why most music teachers will record you and play it back for you, so that you have that “oh man, I didn't realize my rhythm was so off in that section” or “I didn't realize I sounded so tense” or whatever.
 
 
-### Verse (Part I)
+## Verse (Part I)
 
 ```
                                        Are         you    
@@ -238,7 +237,7 @@ The “ma-ry and” measure has a small chord change and a different picking pat
 Then it's back to the regular picking pattern.  
 
 
-### Verse (Part II)
+## Verse (Part II)
 
 ```
                                 Re     mem         ber   
@@ -273,7 +272,7 @@ Okay a couple new wrinkles to our normal picking pattern.
 4. Last, notice that we slow down our picking pattern at the end.  We only play three little two-note chords, one on each down beat.  One, two, three.  That leads us into the last part:
 
 
-### Verse (Last Part) 
+## Verse (Last Part) 
 
 ```
  She         once   was         a      true  love  of  
@@ -309,7 +308,7 @@ Hand position.  You can definitely plant your pinky on the guitar-top (pickguard
 **Dynamics.**  Dynamics means the changing loudness of a song.  Listen to the song and notice how they accent certain notes:  the walking bass notes on “Remember,” the high notes through “ma-ry and” and “one who lives.”  Notice how they let the guitar be like a harp for the simple arpeggio passages with `x04030` and `x02200`, but bring out notes at the end of phrases.  This is what will really make the song sound great, and you should train your ear to hear it in others and your own playing, even as you're learning the song.
 
 
-## Some Music Theory
+# Some Music Theory
 
 You don't need to know any theory to play this song, but I think it's important to know theory as you progress in your musician life, and best to start early! 
 
@@ -333,7 +332,7 @@ You might ask, can we just write A9 ? That's a chord, right?  Well, yes, but it'
 The next section gets a little more technical, so feel free to skip it.
 
 
-### Extended chords
+## Extended chords
 
 A9 indicates a ninth chord, not just adding the ninth note.  A ninth chord is an extended chord, and includes more notes than just the ninth itself.  Other extended chords are the 7th, the 9th, the 11th, … also flat-9th, sharp-9th, etc … They're very jazzy, but show up in rock too.  Here's what we mean:
 
@@ -364,7 +363,7 @@ To play/explain the 11th, and for a great primer on all these extended chords, I
 
 
 
-### Another chord
+## Another chord
 
 Okay, how about this one:
 
@@ -386,7 +385,7 @@ So my guess is this is an Am7add11add13, which is very close to an Am13 (missing
 **AN INTERESTING ASIDE AND SEGUE:**  Notice that when we slid the shape up the neck, we took out the minor third (a C).  That means this could really be an A7(9)(11) (that is, a major chord).  It only feels like an Am7(9)(11) because the song is kind of minor.  Or is it?  If you don't believe me, strum around with A7 and the `x04030` chord, and then the Am7 and the `x04030` chord.  They both sound “right” - that leads me to my next point.
 
 
-### Key
+## Key
 
 Let's talk about the key of this song.  What key do you think it's in?  Is it in a major key or a minor key?  It kind of has a minor feel to me, but maybe not all-out minor, like a funeral dirge or something.  It's almost like it's in between.
 
@@ -411,7 +410,7 @@ So, it's not an exact science, but I think we've determined the song is in A min
 
 
 
-### Transposing and the Capo
+## Transposing and the Capo
 
 Here's a simpler question: what key is it in when we play it with the capo?  If we play a song in A major with no capo, it's a song in A major.  If we put a capo on the 3rd fret, it becomes a song in C major.  With a capo on the 3rd fret, playing an A chord really makes a C chord sound.  Similarly, a G-chord makes a Bb-chord sound, B chord makes a D chord sound, etc.
 
