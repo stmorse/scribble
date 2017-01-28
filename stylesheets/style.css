@@ -6,7 +6,8 @@ html, body {
 
 body {
   background: #f9f9f9;
-  color: #303030;
+/*   color: #303030; */
+  color: #0f0f0f;
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
   font-size: 13px;
@@ -404,7 +405,8 @@ pre {
   background-color: #f9f9f9;
 }
 pre code {
-  padding: 0;
+/*   padding: 0; */
+  padding: 1rem 1.5rem;
   font-size: 100%;
   color: inherit;
   background-color: transparent;
