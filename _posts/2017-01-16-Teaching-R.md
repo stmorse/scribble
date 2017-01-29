@@ -8,11 +8,11 @@ I recently got talked into helping with a winter-term, student-led course on sof
 
 However, the path from "hey let's switch up the course this year" to "good morning class" was tricky and full of interesting revelations for me.  So I wanted to sum up some observations, and shamelessly link to my:
 
-> ##[course notes](https://stmorse.github.io/intro-tidyverse/master.html) 
+> **[COURSE NOTES](https://stmorse.github.io/intro-tidyverse/master.html)**
 
 (which are awesome).  
 
-Shout out to [Phil Chodrow](http://philchodrow.github.io) who is hosting the [official page site](http://philchodrow.github.io/cos_2017).  This has links to the rest of the sessions which covered **machine learning, optimization, and deep learning.**
+Shout out to [Phil Chodrow](http://philchodrow.github.io) who is hosting the **[official page site](http://philchodrow.github.io/cos_2017)**.  This has links to the rest of the sessions which covered *machine learning, optimization, and deep learning.*
 
 
 ### 1. Data wrangling and visualization should be covered together.
