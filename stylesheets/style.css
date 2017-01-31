@@ -10,7 +10,8 @@ html, body {
   height: 100%; }
 
 body {
-  background: #f9f9f9;
+/*   background: #f9f9f9; */
+  background: #f4f9ff;
 /*   color: #303030; */
   color: #0f0f0f;
   font-family: 'Open Sans', sans-serif;
@@ -122,8 +123,7 @@ footer {
   box-sizing: border-box;
   width: 100%;
   max-width: 780px;
-/*   background: #fff; */
-  background: #f4f9ff;
+  background: #fff;
   margin: 40px auto 20px;
   border-radius: 7px;
   border: 1px solid #eee;
