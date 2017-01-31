@@ -519,11 +519,11 @@ SVG Icons - svgicons.sparkk.fr
 }
 
 #social a {
-  color: #000000; 
+  fill: #000000; 
   border-bottom:none;
   text-decoration:none;}
 #social a:hover {
-  color: #1EAEDB;  
+  fill: #1EAEDB;  
   transition:.5s;}
 
 .svg-icon {
