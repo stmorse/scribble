@@ -122,7 +122,8 @@ footer {
   box-sizing: border-box;
   width: 100%;
   max-width: 780px;
-  background: #fff;
+/*   background: #fff; */
+  background: #f4f9ff
   margin: 40px auto 20px;
   border-radius: 7px;
   border: 1px solid #eee;
