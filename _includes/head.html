@@ -13,6 +13,22 @@
 <meta content='text/html; charset=utf-8' http-equiv='content-type' />
 <meta content="{{ site.url }}/og.png" property="og:image" />
 <meta content="{{ site.facebook_appid }}" property="fb:app_id" />
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  jax: ["input/TeX", "output/HTML-CSS"],
+  tex2jax: {
+    inlineMath: [ ['$', '$'] ],
+    displayMath: [ ['$$', '$$']],
+    processEscapes: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+  },
+  messageStyle: "none",
+  "HTML-CSS": { preferredFont: "TeX", availableFonts: ["STIX","TeX"] },
+  SVG: {
+    scale: 120
+  }
+});
+</script>
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 {% if page.date %}
   <meta content='{{ site.url }}{{ page.url }}' property='og:url' />
