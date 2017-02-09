@@ -91,7 +91,10 @@ img {
 
 ol, ol li {
   padding: 0px;
-  margin: 0px 30px; }
+  margin: 0px;
+  text-indent: -2.2em;
+  margin-left: 3.4em;
+}
 
 blockquote {
   margin: 0;
