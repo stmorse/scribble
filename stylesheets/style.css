@@ -396,7 +396,8 @@ pre {
 code {
   padding: .25em .5em;
   font-size: 85%;
-  color: #bf616a;
+/*   color: #bf616a; */
+  color: #472225;
   background-color: #f9f9f9;
   border-radius: 3px;
 }
@@ -416,7 +417,8 @@ pre {
 pre code {
   padding: 0;
   font-size: 100%;
-  color: inherit;
+/*   color: inherit; */
+  color: #472225;
   background-color: transparent;
 }
 
