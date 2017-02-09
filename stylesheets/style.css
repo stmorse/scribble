@@ -90,8 +90,8 @@ img {
   line-height: 1em; }
 
 ol, ol li {
-  padding: 0px 60px;
-  margin: 0; }
+  padding: 0px;
+  margin: 0px 60px; }
 
 blockquote {
   margin: 0;
