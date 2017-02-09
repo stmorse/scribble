@@ -92,7 +92,8 @@ img {
 ol, ol li {
   padding: 0px;
   margin: 0px;
-  list-style-position: inside;
+  margin-left: 1em;
+/*   list-style-position: inside; */
 }
 
 blockquote {
