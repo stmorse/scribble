@@ -17,7 +17,7 @@ Let's write a user-defined scraping function that will scrape one of the nice, c
 
 We'll use the `XML` library, which we load into our session with
 
-``` r
+```r
 library(XML)
 ```
 
