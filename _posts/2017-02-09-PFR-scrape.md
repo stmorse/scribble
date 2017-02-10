@@ -226,7 +226,7 @@ drafts %>%
   geom_smooth(method='lm')
 ```
 
-![]({post.url}/PFR_scrape_files/figure-markdown_github/unnamed-chunk-12-1.png)
+![](https://github.com/stmorse/stmorse.github.io/blob/master/_posts/PFR_scrape_files/figure-markdown_github/unnamed-chunk-12-1.png)
 
 I wouldn't try to read too much into this, it was mostly just to take a look at the data, but you might argue that WRs outperformed expectations in this draft class! That group of 7 that are way above the trend line are
 
