@@ -394,7 +394,7 @@ pre {
   font-family: Menlo, Monaco, "Courier New", monospace;
 }
 code {
-  padding: 1em 1em;
+  padding: 0.25em 0.5em;
   font-size: 85%;
 /*   color: #bf616a; */
   color: #472225;
@@ -419,7 +419,7 @@ pre code {
   font-size: 100%;
 /*   color: inherit; */
   color: #472225;
-  background-color: white;
+  background-color: transparent;
 }
 
 img {
