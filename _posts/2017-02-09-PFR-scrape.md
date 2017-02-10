@@ -57,6 +57,7 @@ drafts = scrapeData('http://www.pro-football-reference.com/years/', '/draft.htm'
                     2010, 2010)
 ```
 
+
     ## Loading Year 2010
 
 Let's take a peek:
@@ -64,6 +65,7 @@ Let's take a peek:
 ``` r
 head(drafts)
 ```
+
 
     ##   Rnd Pick  Tm         Player Pos Age   To AP1 PB St CarAV DrAV   G  Cmp
     ## 1   1    1 STL   Sam Bradford  QB  22 2016   0  0  5    42   23  78 1773
@@ -224,7 +226,7 @@ drafts %>%
   geom_smooth(method='lm')
 ```
 
-![](PFR_scrape_files/figure-markdown_github/unnamed-chunk-12-1.png)
+![]({post.url}/PFR_scrape_files/figure-markdown_github/unnamed-chunk-12-1.png)
 
 I wouldn't try to read too much into this, it was mostly just to take a look at the data, but you might argue that WRs outperformed expectations in this draft class! That group of 7 that are way above the trend line are
 
