@@ -16,9 +16,9 @@ links:
   - name:         CV
     url:          /cv.pdf
     # external:     true
-highlighter:      rouge
 permalink:        pretty
 markdown:         kramdown
+highlighter:      rouge
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
