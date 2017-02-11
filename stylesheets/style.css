@@ -349,9 +349,9 @@ section.post, section > p {
   section.post li p, section > p li p {
     margin-bottom: 5px; }
 
-.highlight {
+/* .highlight {
   margin: 0;
-  padding: 0; }
+  padding: 0; } */
 
 /* pre {
   overflow-x: auto;
@@ -437,14 +437,14 @@ pre code {
   border: none;
   background: transparent; }
 
-.highlight pre {
+/* .highlight pre {
   background-color: #f8f8f8;
   border: 1px solid #cccccc;
   font-size: 13px;
   line-height: 19px;
   overflow: auto;
   padding: 6px 10px;
-  border-radius: 3px; }
+  border-radius: 3px; } */
 
 pre {
   background-color: #f8f8f8;
